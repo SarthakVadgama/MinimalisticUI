@@ -1,0 +1,20 @@
+@media screen and (max-width: 700px) {
+
+    .nav ul{
+        margin: auto 0px auto auto !important;
+        padding: auto 0 auto 3px !important;
+    }
+
+    .nav li{
+        margin: 0 0 0 5px !important;
+    }
+
+    .nav li img{
+        display: block !important;
+        margin: 3px;
+    }
+
+    .nav li p{
+        display: none !important;
+    }
+}
